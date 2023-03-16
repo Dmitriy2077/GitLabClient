@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GitLabClient</string>
+    <string name="private_token">Token:</string>
+    <string name="btn_authorize">Authorization</string>
+    <string name="username">Username:</string>
+    <string name="projects">Projects</string>
+    <string name="project_name">project_name</string>
+    <string name="search">Search</string>
+    <string name="space" />
+    <string name="created_at">Created at: </string>
+    <string name="user_name">Username: </string>
+    <string name="user_login">User login: </string>
+    <string name="private_p">Private</string>
+    <string name="public_p">Public</string>
+</resources>
