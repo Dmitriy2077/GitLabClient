@@ -1,5 +1,6 @@
 # GitLab Client (Created in Q4 2018)
 The Gitlab Client is one of my first apps that lets you access GitLab projects on your Android device. You can view the project name, creation date and user name of the project author.
+Link on my GitLab project [here].
 
 ### Installation
 You can download and install GitLab Client from this path:
@@ -14,3 +15,6 @@ GitLab Client requires Android 6.0 or higher. It also uses some third-party libr
 - OkHttp 3
 - OAuth 2.0
 - AppCompat
+
+
+[here]: <https://gitlab.com/dimka00788/app1>
